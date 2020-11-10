@@ -50,8 +50,8 @@ class _MyHomepageState extends State<MyHomepage> {
                 colors: [_colors[begin_index], _colors[end_index]]),
           ),
           child: Center(
-            child: Text("Change background color",
-                style: TextStyle(color: Colors.white,fontSize: 16.0)),
+            child: Text("Hey there",
+                style: TextStyle(color: Colors.white,fontSize: 24.0)),
           ),
         ),
       ),
